@@ -1,4 +1,4 @@
-# CANTEEN MANAGEMENT SYSTEM
+# CANTEEN MANAGEMENT SYSTEM - PYTHON
 
 ## Description
 The Canteen Management System is a Python-based project that features a user-friendly graphical user interface (GUI) built using the Tkinter library. It is integrated with a MySQL database for efficient management of data, ensuring secure handling of menu items, orders, and financial information. The system is designed to enhance the canteen experience for both shopkeepers and students.
