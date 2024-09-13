@@ -26,3 +26,17 @@ A secure system allows students to log in, select items, and place orders with e
 
 #### Account Management:
 Students can securely log in using system-generated passwords, which must be updated upon first login. The system allows students to view past orders and manage their account details securely, ensuring a seamless and secure user experience.
+
+## How to use:
+First download the images then install the required libraries by executing pip install requests and pillow (or PIL). After installing these libraries, you can run the code to incorporate new items into the database and update the menu. You can find the shopkeeper ID and password in the code, but for convenience, I am including it here as well.
+SHOPKEEPER ID: 676377 AND SHOPKEEPER PASSWORD: ubit2468
+
+## Images
+![image](https://github.com/user-attachments/assets/181b5852-092f-4ff5-8afb-b8390d0703e2)
+![image](https://github.com/user-attachments/assets/302cf063-797d-43f6-9329-59cd5d802f32)
+![image](https://github.com/user-attachments/assets/c504f7e0-0f12-41a2-b78f-f0eb041e7e84)
+![image](https://github.com/user-attachments/assets/a5a0637d-7395-4c1e-b9ff-0908fd8ddd66)
+
+
+
+
